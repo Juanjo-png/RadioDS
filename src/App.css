@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  cursor: url("/assets/images/Cursor1.png"), auto;
+}
+
+.body{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.centro{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  z-index: -1; 
+}
+
+.bg1{
+  background-image: url("/assets/images/WP1.jpg");
+}
+
+.bg2{
+  background-image: url("/assets/images/WP2.jpg");
+}
+
+.bg3{
+  background-image: url("/assets/images/WP3.jpg");
+}
+
+.bg4{
+  background-image: url("/assets/images/WP4.jpg");
+}
+
+.background::before{
+  content: "";
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    backdrop-filter: blur(5px);
+}

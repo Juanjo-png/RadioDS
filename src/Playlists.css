@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+.playlist-button {
+  padding: 10px 20px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  cursor: url('/assets/images/Cursor2.png'), pointer;
+}
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px 24px;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 10px;
+  position: relative;
+  width: 400px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.modal-title {
+  font-size:large;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.playlist-list {
+  height: 300px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.playlist-list,
+.song-list {
+  list-style: none;
+  padding: 0;
+  height: 300px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.song-list {
+  animation: fadeIn 0.3s ease;
+}
+
+.playlist-item,
+.song-item {
+  padding: 10px;
+  font-size: 12px;
+  border: none;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  cursor: url('/assets/images/Cursor2.png'), pointer;
+  border: 3px solid gray;
+  width: 100%;
+}
+
+.playlist-item:hover,
+.song-item:hover {
+  background-color: #ddd;
+}
+
+.back-button {
+  margin-top: 12px;
+  background: none;
+  color: #2563eb;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.back-btn {
+  padding: 10px;
+  font-size: 1rem;
+  border: none;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  cursor: url('/assets/images/Cursor2.png'), pointer;
+  border: 3px solid gray;
+  transition: background 0.2s ease;
+}
+
+.back-btn:hover {
+  background-color: #ddd;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  background: none;
+  border: none;
+  font-size: 15px;
+  padding: 5px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  color: black;
+}
+
+.JuegoIconoPlaylist {
+  width: 45px;
+  height: 45px;
+}
+
+.listaItem {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+

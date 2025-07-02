@@ -1,0 +1,344 @@
+[
+    {
+        "title": "At the End of the Road",
+        "series": "Pokemon",
+        "src": "/assets/songs/At the End of the Road Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Awakening",
+        "series": "Pokemon",
+        "src": "/assets/songs/Awakening Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Benevolent Spirit",
+        "series": "Pokemon",
+        "src": "/assets/songs/Benevolent Spirit Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Twinleaf Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/Pokemon Diamond and Pearl Twinleaf Town Music.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Distortion World",
+        "series": "Pokemon",
+        "src": "/assets/songs/Distortion World - Pokémon Platinum.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Yoshi Falls",
+        "series": "Super Mario",
+        "src": "/assets/songs/Yoshi Falls Mario Kart DS OST.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "File Select",
+        "series": "Super Mario",
+        "src": "/assets/songs/File Select Super Mario 64 DS.mp3",
+        "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Escape Through the Snow",
+        "series": "Pokemon",
+        "src": "/assets/songs/Escape Through the Snow Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "File Select",
+        "series": "Pokemon",
+        "src": "/assets/songs/File Select Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Friend Area Forest",
+        "series": "Pokemon",
+        "src": "/assets/songs/Friend Area Forest Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Friend Area Pond",
+        "series": "Pokemon",
+        "src": "/assets/songs/Friend Area Pond Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Friend Area Swamp",
+        "series": "Pokemon",
+        "src": "/assets/songs/Friend Area Swamp Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Frosty Grotto",
+        "series": "Pokemon",
+        "src": "/assets/songs/Frosty Grotto Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Mt.Freeze",
+        "series": "Pokemon",
+        "src": "/assets/songs/Mt.Freeze Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Great Canyon",
+        "series": "Pokemon",
+        "src": "/assets/songs/Great Canyon Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Mt.Thunder",
+        "series": "Pokemon",
+        "src": "/assets/songs/Mt.Thunder Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Personality Test",
+        "series": "Pokemon",
+        "src": "/assets/songs/Personality Test Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Eterna City",
+        "series": "Pokemon",
+        "src": "/assets/songs/Pokemon Platinum OST Eterna City HD.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Prof Rowan Laboratory",
+        "series": "Pokemon",
+        "src": "/assets/songs/Pokémon Diamond Pearl Platinum Prof Rowan Laboratory Music HQ.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Sandgem Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/Pokemon Diamond and Pearl Sandgem Town Music.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Mt.Coronet",
+        "series": "Pokemon",
+        "src": "/assets/songs/Pokemon Platinum OST Mt.Coronet HD.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Snowpoint City",
+        "series": "Pokemon",
+        "src": "/assets/songs/Pokemon Platinum OST Snowpoint City HD.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Acuity Lakefront Night",
+        "series": "Pokemon",
+        "src": "/assets/songs/Route 216 217 Acuity Lakefront Night Pokémon Diamond Pearl.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Solaceon Town Pastoria City",
+        "series": "Pokemon",
+        "src": "/assets/songs/Solaceon Town Pastoria City Night Pokémon Diamond Pearl.mp3",
+        "juego": "Pokemon Platinum"
+    },
+    {
+        "title": "Mt.Thunder",
+        "series": "Pokemon",
+        "src": "/assets/songs/Mt.Thunder Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Sky Tower",
+        "series": "Pokemon",
+        "src": "/assets/songs/Sky Tower Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Stormy Sea",
+        "series": "Pokemon",
+        "src": "/assets/songs/Stormy Sea Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "The Legend of Ninetales",
+        "series": "Pokemon",
+        "src": "/assets/songs/The Legend of Ninetales Pokémon Mystery Dungeon Blue Rescue Team Old Rip OST.mp3",
+        "juego": "PKMN MD Blue Rescue Team"
+    },
+    {
+        "title": "Single Player",
+        "series": "Super Mario",
+        "src": "/assets/songs/03. Single Player Menu.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "Overworld",
+        "series": "Super Mario",
+        "src": "/assets/songs/05. Overworld.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "WIFI Menu",
+        "series": "Super Mario",
+        "src": "/assets/songs/05. WIFI Menu.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "Records",
+        "series": "Super Mario",
+        "src": "/assets/songs/06. Records.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "Options Menu",
+        "series": "Super Mario",
+        "src": "/assets/songs/07. Options Menu.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "Desert Hills",
+        "series": "Super Mario",
+        "src": "/assets/songs/20. Desert Hills.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "Rainbow Road",
+        "series": "Super Mario",
+        "src": "/assets/songs/39. Rainbow Road.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "DK Pass",
+        "series": "Super Mario",
+        "src": "/assets/songs/29. DK Pass.mp3",
+        "juego": "Mario Kart DS"
+    },
+    {
+        "title": "Athletic",
+        "series": "Super Mario",
+        "src": "/assets/songs/19. Athletic.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Underwater",
+        "series": "Super Mario",
+        "src": "/assets/songs/28. Underwater.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "World 2",
+        "series": "Super Mario",
+        "src": "/assets/songs/35. World 2.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Desert",
+        "series": "Super Mario",
+        "src": "/assets/songs/36. Desert.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "World 3",
+        "series": "Super Mario",
+        "src": "/assets/songs/World 3 Beach New Super Mario Bros.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Beach",
+        "series": "Super Mario",
+        "src": "/assets/songs/39. Beach.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "World 4",
+        "series": "Super Mario",
+        "src": "/assets/songs/43. World 4.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Beach",
+        "series": "Super Mario",
+        "src": "/assets/songs/39. Beach.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Lakitu Launch",
+        "series": "Super Mario",
+        "src": "/assets/songs/63. Lakitu Launch.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "World 5",
+        "series": "Super Mario",
+        "src": "/assets/songs/44. World 5.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "World 6",
+        "series": "Super Mario",
+        "src": "/assets/songs/45. World 6.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "World 7",
+        "series": "Super Mario",
+        "src": "/assets/songs/46. World 7.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Whack-a Monty, Hide and Boo Seek, Coincentration",
+        "series": "Super Mario",
+        "src": "/assets/songs/66. Whack-a Monty, Hide and Boo Seek, Coincentration.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Vs. Results Screen",
+        "series": "Super Mario",
+        "src": "/assets/songs/87. Vs. Results Screen.mp3",
+        "juego": "New Super Mario Bros"
+    },
+    {
+        "title": "Bob omb Battlefield",
+        "series": "Super Mario",
+        "src": "/assets/songs/Bob omb Battlefield Super Mario 64 DS OST.mp3",
+        "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Cave Dungeon",
+        "series": "Super Mario",
+        "src": "/assets/songs/Cave Dungeon Super Mario 64 DS OST.mp3",
+        "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Dire Dire Docks",
+        "series": "Super Mario",
+        "src": "/assets/songs/Dire Dire Docks Super Mario 64 DS OST.mp3",
+        "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Inside the Castle Walls",
+        "series": "Super Mario",
+        "src": "/assets/songs/Inside the Castle Walls Super Mario 64 DS OST.mp3",
+        "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Luigi s Casino",
+        "series": "Super Mario",
+        "src": "/assets/songs/Luigi s Casino Super Mario 64 DS OST.mp3",
+        "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Snow Mountain",
+        "series": "Super Mario",
+        "src": "/assets/songs/Snow Mountain Super Mario 64 DS OST.mp3",
+        "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Piranha Plant Lullaby",
+        "series": "Super Mario",
+        "src": "/assets/songs/Piranha Plant Lullaby Super Mario 64 DS OST.mp3",
+        "juego": "Super Mario 64 DS"
+    }
+]

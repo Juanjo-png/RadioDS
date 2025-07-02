@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+p{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.playModule{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 15px;
+    width: 50%;
+}
+
+button, a, [role="button"] {
+    cursor: url('/assets/images/Cursor2.png'), pointer;
+  }
+
+.imagenAlbum{
+    width: 20%;
+}
+
+.menuIconImgPlay{
+    width: 70px;
+    filter: drop-shadow(5px 3px 2px #00000091);
+    cursor: url('/assets/images/Cursor2.png'), pointer;
+    transition: 0.2s;
+}
+
+.menuIconImgPlay:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+.controls{
+    width: 50px;
+    filter: drop-shadow(5px 3px 2px #00000091);
+    cursor: url('/assets/images/Cursor2.png'), pointer;
+    transition: 0.2s;
+}
+
+.controls:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+.menuButton{
+    background-color: transparent;
+    border: 0px;
+}
+
+.playCenter{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    
+}
+
+.gameIcon{
+    padding-bottom: 13px;
+    width: 100px;
+    order: -1;
+    transition: 0.3s;
+    filter: drop-shadow(5px 5px 6px #00000091);
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-13px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.playControls{
+    display: flex;
+    gap: 30px;
+}

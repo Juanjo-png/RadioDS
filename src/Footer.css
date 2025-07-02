@@ -1,0 +1,29 @@
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 3%;
+}
+
+.buttons{
+    display: flex;
+    gap: 20px;
+}
+
+.menuIconImg{
+    width: 50px;
+    filter: drop-shadow(5px 3px 2px #00000091);
+    cursor: url('/assets/images/Cursor2.png'), pointer;
+}
+
+.menuButton{
+    background-color: transparent;
+    border: 0px;
+    transition: 0.2s;
+}
+
+.menuIconImg:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+}

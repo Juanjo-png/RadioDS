@@ -1,0 +1,33 @@
+.header{
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+}
+
+.logo{
+    width: 150px;
+    filter: drop-shadow(5px 3px 2px #00000091);
+    cursor: url('/assets/images/Cursor2.png'), pointer;
+}
+
+.menuIconImg{
+    width: 50px;
+    filter: drop-shadow(5px 3px 2px #00000091);
+    cursor: url('/assets/images/Cursor2.png'), pointer;
+    transition: 0.2s;
+    padding-top: 4%;
+}
+
+.menuIconImg:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+.menuButton{
+    background-color: transparent;
+    border: 0px;
+}
