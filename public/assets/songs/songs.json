@@ -340,5 +340,419 @@
         "series": "Super Mario",
         "src": "/assets/songs/Piranha Plant Lullaby Super Mario 64 DS OST.mp3",
         "juego": "Super Mario 64 DS"
+    },
+    {
+        "title": "Title Screen",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/02 Title Screen (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Nook's Cranny",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/09 Nook's Cranny (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Nook 'N Go",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/10 Nook 'N Go (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Nookington's",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/12 Nookington's (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Nookway",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/11 Nookway (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Shampoodle",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/13 Shampoodle (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Able Sisters",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/15 Able Sisters (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Town Gate",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/18 Town Gate (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Post Office ~ Night",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/17 Post Office (AC_WW) ~ Night.mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Blathers's Museum ~ Fish",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/23. Blathers's Museum ~ Fish (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Blathers's Museum ~ Observatory",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/24. Blathers's Museum ~ Observatory (A.mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "The Roost",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/25 The Roost (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Katrina's Tent",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/27 Katrina's Tent.mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "6 AM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/39 6 AM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "7 AM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/40 7 AM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "8 AM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/41 8 AM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "9 AM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/42 9 AM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "7 AM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/43 10 AM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "11 AM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/44 11 AM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "12 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/45 12 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "1 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/46 1 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "2 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/47 2 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "3 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/48 3 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "4 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/49 4 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "5 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/50 5 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "6 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/51 6 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "7 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/52 7 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "8 PM",
+        "series": "Animal Crossing",
+        "src": "/assets/songs/53 8 PM (AC_WW).mp3",
+        "juego": "Animal Crossing WW"
+    },
+    {
+        "title": "Kanoko Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-06. Kanoko Town.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Pokemon Laboratory",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-10. Pokemon Laboratory.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Route 1",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-13. Route 1.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Karakusa Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-17. Karakusa Town.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Come Along 2",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-18. Come Along 2.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Route 2",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-23. Route 2 (Spring~Summer).mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Gate",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-49. Gate.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Sanyou City",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-30. Sanyou City.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Sky Arrow Bridge",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-50. Sky Arrow Bridge.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Shippou City",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-41. Shippou City.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Raimon City",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-55. Raimon City.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Unwavering Emotions",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-57. Unwavering Emotions.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Bicycle",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-61. Bicycle.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Champion Alder",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-62. Champion Adeku.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Hodomoe City",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-02. Hodomoe City.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Freezer Containers",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-03. Freezer Containers.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Route 6",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-04. Route 6 (Spring~Summer).mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Electric Rock Cave",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-07. Electric Rock Cave.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Araragi's Father",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-09. Araragi's Father.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Dragon Spiral Tower",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-14. Dragon Spiral Tower.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Sekka City",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-13. Sekka City.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Ancient Castle",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-18. Ancient Castle.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Route 10",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-25. Route 10.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "White Forest",
+        "series": "Pokemon",
+        "src": "/assets/songs/3-39. White Forest.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Route 12",
+        "series": "Pokemon",
+        "src": "/assets/songs/3-32. Route 12 (Spring~Summer).mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Kanawa Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/3-30. Kanawa Town.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Sazanami Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/3-47. Sazanami Town (Autumn~Spring).mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Kagome Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/4-04. Kagome Town.mp3",
+        "juego": "Pokemon Black"
+    },
+    {
+        "title": "Driftveil Gym",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-01. Driftveil Gym.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Aspertia City",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-04. Aspertia City.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Bianca's Theme",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-05. Bianca's Theme.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Route 19",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-06. Route 19 (Spring - Summer).mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Floccesy Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-08. Floccesy Town.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Floccesy Ranch",
+        "series": "Pokemon",
+        "src": "/assets/songs/1-09. Floccesy Ranch.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Route 23",
+        "series": "Pokemon",
+        "src": "/assets/songs/3-09. Route 23.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Underground Ruins",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-15. Underground Ruins.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Lentimas Town",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-23. Lentimas Town.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "The Road to Reversal Mountain",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-24. The Road to Reversal Mountain.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "The Frozen City",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-31. The Frozen City.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Marine Tube",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-35. Marine Tube.mp3",
+        "juego": "Pokemon Black 2"
+    },
+    {
+        "title": "Humilau City",
+        "series": "Pokemon",
+        "src": "/assets/songs/2-36. Humilau City.mp3",
+        "juego": "Pokemon Black 2"
     }
 ]
