@@ -58,3 +58,14 @@
     height: 100vh;
     backdrop-filter: blur(5px);
 }
+
+/*Moviles*/
+@media only screen and (max-width: 575px){
+  .body{
+  height: 100vh;
+  }
+
+  .centro{
+  height: 50%;
+  }
+}
