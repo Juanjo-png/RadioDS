@@ -94,7 +94,7 @@ const Options = ({ isOpen, onClose, volume, onVolumeChange }) => {
                   ❄️Kyurem Negro⚡
                 </button>
                 <button onClick={() => changeBackground(4)}>
-                  🦔Sonic Colors💙
+                  🍄Super Mario 64🔥
                 </button>
               </div>
             )}

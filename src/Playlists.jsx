@@ -77,7 +77,7 @@ const Playlists = ({ onClose, onSongSelect }) => {
           }}
           className="close-button"
         >
-          ✕
+          &times;
         </button>
       </div>
     </div>
