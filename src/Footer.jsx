@@ -14,9 +14,9 @@ function Footer({ onSongSelect }) {
     <div className='footer'>
       <Clock />
       <div className="buttons">
-        <button className='menuButton'>
+        {/* <button className='menuButton'>
           <img src="/assets/icons/RandomPlay.png" className="menuIconImg" />
-        </button>
+        </button> */}
         <button onClick={togglePlaylists} className='menuButton'>
           <img src="/assets/icons/MusicIcons.png" className="menuIconImg" />
         </button>
